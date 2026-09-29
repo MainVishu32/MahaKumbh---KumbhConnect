@@ -1,0 +1,6 @@
+{
+  "name": "KumbhConnect Nashik",
+  "description": "Hyperlocal marketplace and safety platform for Nashik Kumbh Mela. Verified local food, affordable stays, and safety passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
